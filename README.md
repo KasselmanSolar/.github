@@ -1,0 +1,2 @@
+# .github
+Kasselman Solar Readme
